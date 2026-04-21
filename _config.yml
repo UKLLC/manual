@@ -1,0 +1,15 @@
+title: UK LLC Manual
+author: UK LLC
+description: A manual for UK LLC data managers
+
+execute:
+  execute_notebooks: auto
+
+repository:
+  url: https://github.com/UKLLC/manual
+  path_to_book: book
+  branch: main
+
+html:
+  use_issues_button: true
+  use_repository_button: true

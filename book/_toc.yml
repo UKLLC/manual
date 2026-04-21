@@ -1,0 +1,8 @@
+format: jb-book
+root: intro
+
+chapters:
+  - title: A page with some content
+    file: content
+  - title: A notebook with some tricky maths
+    file: notebook
