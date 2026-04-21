@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints
+
+# Jupyter Book
+_build/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Conda / venv
+.env
+.venv
