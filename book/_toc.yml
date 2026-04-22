@@ -1,9 +1,10 @@
 format: jb-book
-root: intro
+root: book/intro
 
-chapters:
-- title: File Formatting Guidance
-  file: book/ffg/ffg_content
-  sections: 
-    - title: Second level
-      file: book/ffg/ffg_notebook
+parts:
+  - chapters:
+    - title: File Formatting Guidance
+      file: book/ffg/ffg_content.md
+      sections: 
+        - title: Second level
+          file: book/ffg/ffg_notebook.md
