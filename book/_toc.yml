@@ -1,8 +1,9 @@
 format: jb-book
-root: intro
+root: introduction
 
 chapters:
   - title: A page with some content
-    file: content
-  - title: A notebook with some tricky maths
-    file: notebook
+    file: ffg/ffg_content.md
+    sections: 
+      - title: Just a place holder
+        file: ffg_notebook
