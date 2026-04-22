@@ -1,9 +1,9 @@
 format: jb-book
-root: introduction
-
-chapters:
-  - title: A page with some content
-    file: ffg/ffg_content.md
+root: docs/introduction
+parts:
+  chapters:
+  - title: File Formatting Guidance
+    file: docs/ffg/ffg_content.md
     sections: 
-      - title: Just a place holder
-        file: ffg_notebook
+      - title: Second level
+        file: docs/ffg/ffg_notebook
