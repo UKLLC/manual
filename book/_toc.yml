@@ -1,10 +1,27 @@
 format: jb-book
-root: book/intro
+root: intro
 
 parts:
   - chapters:
-    - title: File Formatting Guidance
-      file: book/ffg/ffg_content.md
-      sections: 
-        - title: Second level
-          file: book/ffg/ffg_notebook.md
+    - title: Format of Data Files
+      file: docs/ffg_guidance/ffg_intro.md
+      sections:
+        - title: Table 3 (test)
+          file: docs/table_3_test.md
+        - title: Work in progress
+          file: docs/tables_etc.md
+    - title: Style options
+      file: docs/style_options/style_intro.md
+      sections:
+        - title: Option 1
+          file: docs/style_options/test1.md
+        - title: Option 2
+          file: docs/style_options/test2.md
+        - title: Option 3
+          file: docs/style_options/test3.md                
+        - title: Option 4
+          file: docs/style_options/test4.md
+        - title: Option 5
+          file: docs/style_options/test5.md
+    - title: Glossary
+      file: docs/glossary.md
