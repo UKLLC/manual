@@ -12,7 +12,7 @@ A full explanation of this 'split-file' process and UK LLC data flows is in <spa
 
 <br>
 
-<img src= "doc_dat_044_ffg_v3.jpg" width="600">
+<img src= "doc_dat_044_ffg_v3.jpg" width="900">
 
 <br>
 
