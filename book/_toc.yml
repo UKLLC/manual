@@ -6,8 +6,18 @@ parts:
     - title: Format of Data Files
       file: docs/ffg_guidance/ffg_intro.md
       sections:
-        - title: Table 3 (test)
-          file: docs/table_3_test.md
+        - title: File 1s (identifiers)
+          file: docs/ffg_guidance/file1s/file1_checklist.md
+          sections:
+            - title: File 1 specification
+              file: docs/ffg_guidance/file1s/file1_spec.md
+            - title: File 1 variables
+              file: docs/ffg_guidance/file1s/file1_spec_table.md
+        - title: File 2s (attribute data)
+          file: docs/ffg_guidance/file2s/file2_checklist.md
+          sections:
+            - title: File 2 specification
+              file: docs/ffg_guidance/file2s/file2_spec.md
         - title: Work in progress
           file: docs/tables_etc.md
     - title: Style options
@@ -23,5 +33,3 @@ parts:
           file: docs/style_options/test4.md
         - title: Option 5
           file: docs/style_options/test5.md
-    - title: Glossary
-      file: docs/glossary.md
