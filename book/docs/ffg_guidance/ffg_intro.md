@@ -10,9 +10,6 @@ A full explanation of this 'split-file' process and UK LLC data flows is in <spa
 
 > You can contact the UK LLC Data Team with any data-related queries at: [support@ukllc.ac.uk](mailto:support@ukllc.ac.uk).
 
-<br>
 
-<img src= "doc_dat_044_ffg_v3.jpg" width="900">
-
-<br>
+<img src="doc_dat_044_ffg_v3.jpg" width="700">
 
