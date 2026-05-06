@@ -11,15 +11,17 @@ parts:
           sections:
             - title: File 1 specification
               file: docs/ffg_guidance/file1s/file1_spec.md
-            - title: File 1 variables
+            - title: File 1 variables (TABLE 3 TEST)
               file: docs/ffg_guidance/file1s/file1_spec_table.md
         - title: File 2s (attribute data)
           file: docs/ffg_guidance/file2s/file2_checklist.md
           sections:
             - title: File 2 specification
               file: docs/ffg_guidance/file2s/file2_spec.md
-        - title: Work in progress
-          file: docs/tables_etc.md
+            - title: File 2 naming conventions
+              file: docs/ffg_guidance/file2s/file2_naming.md
+            - title: File 2 Documentation
+              file: docs/ffg_guidance/file2s/file2_documentation.md
     - title: Style options
       file: docs/style_options/style_intro.md
       sections:
