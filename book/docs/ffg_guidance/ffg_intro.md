@@ -8,10 +8,11 @@ The guide explains:
 
 A full explanation of this 'split-file' process and UK LLC data flows is in <span style="color:red"> **Appendix A**.  
 
-<br>
-
-<img src= "doc_dat_044_ffg_v3.jpg" width="900">
+> You can contact the UK LLC Data Team with any data-related queries at: [support@ukllc.ac.uk](mailto:support@ukllc.ac.uk).
 
 <br>
 
-## You can contact the UK LLC Data Team with any data-related queries at: [support@ukllc.ac.uk](mailto:support@ukllc.ac.uk).
+<img src= "doc_dat_044_ffg_v3.jpg" width="600">
+
+<br>
+
