@@ -1,7 +1,6 @@
 # Introduction
 
-This Jupyter book is for data managers working with Longitudinal Population Studies (LPS) partnered with UK LLC [link].  
-<br>
+## This Jupyter book is for data managers working with Longitudinal Population Studies (LPS) partnered with the <a href="https://ukllc.ac.uk/" target="_blank" rel="noopener noreferrer">UK Longitudinal Linkage Collaboration (UK LLC)</a>.  
 It will ultimately provide the all the information and guidance data managers need to work with UK LLC.  
 <br>
 The intended content for this manual is:  

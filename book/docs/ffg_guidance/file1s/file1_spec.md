@@ -6,14 +6,18 @@
 
 If a participant withdraws from the LPS or no longer permits the flow of their identifiers for linkage, you must set their permission flags in the 'current' row accordingly to stop their data flowing. For example, if a participant withdraws consent to share their data with UK LLC, set their UKLLC_STATUS to 0 in the 'current row'.
 
-<span style="color:red">**Table 1 here**  
+<i>**Table 1**: Example File 1 content for a single fabricated LPS participant - in this example a limited number of variables is shown (see the [**File 1 formatting table**](file1_format_table.md) for the full list)</i>
+
+<img src= "file1_table1.png" width="800">
 
 When an updated File 1 is provided, this should be build using the information that is current at the time – i.e. any new information, such as a new address, will be added to the 'current' row, and old information will be relegated to the 'historical' row(s) – see example in Table 2.
 
-<span style="color:red">**Table 2 here**  
+<i>**Table 2**: Example of updates in File 1 content (new address) for the same fabricated LPS participant</i>  
+
+<img src= "file1_table2.png" width="800">
 
 ## Permission flags  
-There are 34 fields that should be completed, including permission flags – <span style="color:red">see Section 2.1.4, Table 3 below.  
+There are 34 fields that should be completed, including permission flags. These are described in the [**File 1 formatting table**](file1_format_table.md).  
 
 Permission flags indicate if a participant’s identifiers can be shared for [**linkages**](#permission-flags) and with whom. Flags can be set at an **individual participant level** or at an **LPS level**. In Table 1 above, the participant with STUDY_ID 1 (Andy Boyd) has consented to have data flow to UK LLC (UKLLC_STATUS=1), but has not consented to NHS England Linkage (NHS_E_Linkage_Permission=0).
 
@@ -33,7 +37,7 @@ b. Small_Area_Permission
 c. Environment_Permission  
 d. Property_Level_Permission  
 
-More information on each of these is provided in <span style="color:red">lines 26 – 29 of Table 3 below.  
+More information on each of these is provided in lines 26 – 29 of the [**File 1 formatting table**](file1_format_table.md).  
 
 If indicated by the **Geocoding_Permission** field, participants’ address history is shared by DHCW, masked by the inclusion of additional addresses, with agreed partners for linkage to geocoded data. The partners do not receive any information except encrypted STUDY_ID, full address or postcode, and address start and finish dates. For more information on place-based data processing and linkage visit [**UK LLC Guidebook**](https://guidebook.ukllc.ac.uk/docs/linked_geo_data/place_based_intro).  
 
@@ -42,6 +46,6 @@ Address start and end dates are used, e.g. to calculate exposure to air pollutio
 ## File 1 formatting
 The personal identifiers data file (File 1) should be provided in .csv (comma delimited file) format. If your exported .csv file has empty cells with spaces, please delete these spaces, setting the values of the empty cells to null/empty.  
 
-Please refer to <span style="color:red">**Table 3, over page**</span>,  for detailed information about each variable to be included in each File 1.  
+Please refer to the [**File 1 formatting table**](file1_format_table.md),  for detailed information about each variable to be included in each File 1.  
 
-**You MUST use the Field Names in <span style="color:red">Table 3</span> and Field Names MUST have underscores between words.**
+**You MUST use the Field Names in the [File 1 formatting table](file1_format_table.md) and Field Names MUST have underscores between words.**

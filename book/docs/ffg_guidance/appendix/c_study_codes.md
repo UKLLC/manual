@@ -1,7 +1,8 @@
-# Testing tables to go on other pages
+# APPENDIX C: UK LLC STUDY CODES
+The following codes have been agreed between UK LLC and LPS. Please ensure study codes are used correctly and in accordance with the naming conventions below.  
 
+**If you need to change the study code, plase contact UK LLC to arrange this.**
 
-## UK LLC STUDY CODES
 | UK LLC Study Code | LPS |
 |---|---|
 | AIRWAVE | Airwave Health Monitoring Study |

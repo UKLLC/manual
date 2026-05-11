@@ -11,8 +11,8 @@ parts:
           sections:
             - title: File 1 specification
               file: docs/ffg_guidance/file1s/file1_spec.md
-            - title: File 1 variables (TABLE 3 TEST)
-              file: docs/ffg_guidance/file1s/file1_spec_table.md
+            - title: File 1 formatting (TABLE 3 TEST)
+              file: docs/ffg_guidance/file1s/file1_format_table.md
         - title: File 2s (attribute data)
           file: docs/ffg_guidance/file2s/file2_checklist.md
           sections:
@@ -22,6 +22,15 @@ parts:
               file: docs/ffg_guidance/file2s/file2_naming.md
             - title: File 2 Documentation
               file: docs/ffg_guidance/file2s/file2_documentation.md
+        - title: Appendices
+          file: docs/ffg_guidance/appendix/append_intro.md
+          sections: 
+            - title: A) Data Flows
+              file: docs/ffg_guidance/appendix/a_data_flows.md
+            - title: B) NHS IDs and DSAs
+              file: docs/ffg_guidance/appendix/b_nhs_dsas.md
+            - title: C) UK LLC Study Codes
+              file: docs/ffg_guidance/appendix/c_study_codes.md
     - title: Style options
       file: docs/style_options/style_intro.md
       sections:
