@@ -11,7 +11,7 @@ parts:
           sections:
             - title: File 1 specification
               file: docs/ffg_guidance/file1s/file1_spec.md
-            - title: File 1 formatting (TABLE 3 TEST)
+            - title: File 1 formatting table
               file: docs/ffg_guidance/file1s/file1_format_table.md
         - title: File 2s (attribute data)
           file: docs/ffg_guidance/file2s/file2_checklist.md
