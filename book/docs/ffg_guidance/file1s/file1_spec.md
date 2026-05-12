@@ -8,13 +8,13 @@ If a participant withdraws from the LPS or no longer permits the flow of their i
 
 <i>**Table 1**: Example File 1 content for a single fabricated LPS participant - in this example a limited number of variables is shown (see the [**File 1 formatting table**](file1_format_table.md) for the full list)</i>
 
-<img src="../file1s/images/file1_table1.jpg" width="800"/>
+![](../file1s/images/file1_table1.jpg)
 
 When an updated File 1 is provided, this should be build using the information that is current at the time – i.e. any new information, such as a new address, will be added to the 'current' row, and old information will be relegated to the 'historical' row(s) – see example in Table 2.
 
 <i>**Table 2**: Example of updates in File 1 content (new address) for the same fabricated LPS participant</i>  
 
-<img src="../file1s/images/file1_table2.jpg" width="800"/>
+![](../file1s/images/file1_table2.jpg)
 
 ## Permission flags  
 There are 34 fields that should be completed, including permission flags. These are described in the [**File 1 formatting table**](file1_format_table.md).  
