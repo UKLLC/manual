@@ -8,17 +8,13 @@ If a participant withdraws from the LPS or no longer permits the flow of their i
 
 <i>**Table 1**: Example File 1 content for a single fabricated LPS participant - in this example a limited number of variables is shown (see the [**File 1 formatting table**](file1_format_table.md) for the full list)</i>
 
-
-<img src= "file1_table1.png" width="800">
-
+<img src="../file1s/images/file1_table1.png" width="800"/>
 
 When an updated File 1 is provided, this should be build using the information that is current at the time – i.e. any new information, such as a new address, will be added to the 'current' row, and old information will be relegated to the 'historical' row(s) – see example in Table 2.
 
 <i>**Table 2**: Example of updates in File 1 content (new address) for the same fabricated LPS participant</i>  
 
-
-<img src= "file1_table2.png" width="800">
-
+<img src="../file1s/images/file1_table2.png" width="800"/>
 
 ## Permission flags  
 There are 34 fields that should be completed, including permission flags. These are described in the [**File 1 formatting table**](file1_format_table.md).  
@@ -50,6 +46,6 @@ Address start and end dates are used, e.g. to calculate exposure to air pollutio
 ## File 1 formatting
 The personal identifiers data file (File 1) should be provided in .csv (comma delimited file) format. If your exported .csv file has empty cells with spaces, please delete these spaces, setting the values of the empty cells to null/empty.  
 
-Please refer to the [**File 1 formatting table**](file1_format_table.md),  for detailed information about each variable to be included in each File 1.  
+>Please refer to the [**File 1 formatting table**](file1_format_table.md),  for detailed information about each variable to be included in each File 1.  
 
 **You MUST use the Field Names in the [File 1 formatting table](file1_format_table.md) and Field Names MUST have underscores between words.**

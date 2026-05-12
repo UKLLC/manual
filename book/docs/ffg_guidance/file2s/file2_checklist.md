@@ -13,7 +13,7 @@ Datasets are created at the LPS’ discretion but should be as meaningful as pos
 
 > When preparing a File 2, please work carefully through the list below.  
 
-## Attribute data file (File 2) requirements
+## File 2 requirements
 
 **Participant data**
 | | |
@@ -29,15 +29,15 @@ Datasets are created at the LPS’ discretion but should be as meaningful as pos
 **Specification and transfer of File 2s and documentation**  
 | | |
 |:---:|---|
-| 08 | Either prepare the File 2 in STATA/SPSS with full labelling<br>Or use the .csv specification, providing both attribute data and metadata <span style="color:red">(see Tables 4, 5 & 6 below for further details). |
-| 09 | Adhere <strong>exactly</strong> to the File 2 specification detailed in <span style="color:red">Section 3.1 below. |
-| 10 | Name the file as detailed in <span style="color:red">Section 3.1.2 using the agreed UK LLC study code (see Appendix C). |
+| 08 | Either prepare the File 2 in STATA/SPSS with full labelling<br>Or use the .csv specification, providing both attribute data and metadata (see [**File 2 specification**](file2_spec.md) for further details). |
+| 09 | Adhere <strong>exactly</strong> to the File 2 specification detailed on the [next page](file2_spec.md). |
+| 10 | Name the file as detailed in the [**File 2 naming conventions**](file2_naming.md#attribute-data-files-should-be-named-as) using the agreed [**UK LLC study code**](../appendix/c_study_codes.md). |
 | 11 | If splitting one attribute file into several parts, ensure all files names contain the same date and that the separate 'batches' are numbered consecutively. |
-| 12 | Send the File 2 to Swansea University via the secure file upload portal. See '[File Transfer to UK LLC](#file-2-transfer-to-uk-llc-previously-section-34)' (below) for upload instructions. |
-| 13 | Complete the <span style="color:red">File 2 Documentation Template.xlsx[link to download] (further details in Section 3.2 below). |
+| 12 | Send the File 2 to Swansea University via the secure file upload portal. See '[File Transfer to UK LLC](#file-2-transfer-to-uk-llc)' (below) for upload instructions. |
+| 13 | Complete the [File 2 Documentation Template](../file2s/images/file2_documentation_template_v2.1.xlsx) (further details are [here](file2_documentation.md)). |
 | 14 | Send the completed File 2 documentation template to both Swansea University (via the secure link) and the UK LLC Data Team (support@ukllc.ac.uk). |  
 
-### File 2 Transfer to UK LLC <span style="color:red">(previously Section 3.4)</span>
+### File 2 Transfer to UK LLC
 UK LLC will ensure an LPS-specific link is sent from Swansea to each LPS Data Manager, which will provide a **one-way file drop** to Swansea. This service uses **Owncloud**, which is a Swansea-hosted client-server software and will allow direct upload of files for the Swansea team to process and load into the UK LLC TRE.  
 
 **If this is not feasible for your LPS, please contact the UK LLC Data Team via [support@ukllc.ac.uk](mailto:support@ukllc.ac.uk) to discuss alternative arrangements.**
