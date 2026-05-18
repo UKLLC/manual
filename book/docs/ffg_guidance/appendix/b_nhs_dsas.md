@@ -1,4 +1,4 @@
-# APPENDIX B: NHS IDS & DATA SHARING AGREEMENTS (DSA)
+# Appendix B: NHS IDs & Data Sharing Agreements (DSA)
 
 While NHS IDs are not essential for the linkage of participants' records with their NHS England records, their inclusion in the identifiers data (File 1) (in a field called 'NHS_NUMBER') may improve the match rates and quality. NHS IDs should be included wherever possible.  
 

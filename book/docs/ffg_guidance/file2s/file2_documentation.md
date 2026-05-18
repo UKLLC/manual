@@ -2,7 +2,7 @@
 
 LPS must send File 2 documentation (in Excel format) to Swansea University at the same time File 2s are sent. File 2 documentation must also be sent to the UK LLC Data Team [support@ukllc.ac.uk](mailto:support@ukllc.ac.uk).  
 
-**Use the File 2 Documentation Template available [here](../file2s/images/file2_documentation_template_v2.1.xlsx)**.  
+**Use the File 2 Documentation Template available to download [here](../downloads/file2_documentation_template_v2.1.xlsx)**.  
 
 Please follow the instructions and carefully work through the template, entering the requested information about datasets (e.g. key words and a description of each dataset).  
 
@@ -20,7 +20,7 @@ Please retain a copy of the File 2 documentation and use the same spreadsheet to
 <span style="color:teal">e.g. EXCEED_file2documentation_v0002_20211119.xls  
 
 **Example File 2 documentation (EXCEED_file2documentation_v0001_20211002) - first data deposit**  
-| 1. Data File Sent<br> to Swansea | 2. Dataset File Name | ... | 6. File Format (STATA, SPSS, CSV),<br> including the version used to<br> generate data) |
+| 1. Date file sent<br> to Swansea | 2. Dataset File Name | ... | 6. File Format (STATA, SPSS, CSV),<br> including the version used to<br> generate data) |
 |---|---|---|---|
 | 20211002 | covidw1_data_v0001_20211002 | | SPSS |
 | 20211002 | covidw2_data_v0001_20211002 | | SPSS |
@@ -38,7 +38,7 @@ When File 2 updates are sent to Swansea University, they should be named to refl
 The File 2 documentation spreadsheet should be updated to include the new files (see Table below).  
 
 **Example update in File 2 documentation (EXCEED_file2documentation_v0001_20211119) - second data deposit**  
-| 1. Data File Sent<br> to Swansea | 2. Dataset File Name | ... | 6. File Format (STATA, SPSS, CSV),<br> including the version used to<br> generate data) |
+| 1. Date file sent<br> to Swansea | 2. Dataset File Name | ... | 6. File Format (STATA, SPSS, CSV),<br> including the version used to<br> generate data) |
 |---|---|---|---|
 | 20211002 | covidw1_data_v0001_20211002 | | SPSS |
 | 20211002 | covidw2_data_v0001_20211002 | | SPSS |

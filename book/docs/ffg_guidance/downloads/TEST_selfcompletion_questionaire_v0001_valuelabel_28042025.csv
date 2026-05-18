@@ -1,0 +1,44 @@
+﻿Dataset_Name,Variable_Name,Value_Value,Value_Label
+TEST_selfcompletion_questionaire_v0001_28042025,w1q1,1,Rarely or none of the time
+TEST_selfcompletion_questionaire_v0001_28042025,w1q1,2,Some of the time
+TEST_selfcompletion_questionaire_v0001_28042025,w1q1,3,Often
+TEST_selfcompletion_questionaire_v0001_28042025,w1q1,4,Most or all of the time
+TEST_selfcompletion_questionaire_v0001_28042025,w1q2,1,Strongly disagree
+TEST_selfcompletion_questionaire_v0001_28042025,w1q2,2,Disagree
+TEST_selfcompletion_questionaire_v0001_28042025,w1q2,3,Neither agree nor disagree
+TEST_selfcompletion_questionaire_v0001_28042025,w1q2,4,Agree
+TEST_selfcompletion_questionaire_v0001_28042025,w1q2,5,Strongly agree
+TEST_selfcompletion_questionaire_v0001_28042025,w1q3,1,Rarely or none of the time
+TEST_selfcompletion_questionaire_v0001_28042025,w1q3,2,Some of the time
+TEST_selfcompletion_questionaire_v0001_28042025,w1q3,3,Often
+TEST_selfcompletion_questionaire_v0001_28042025,w1q3,4,Most or all of the time
+TEST_selfcompletion_questionaire_v0001_28042025,w1q4,1,Rarely or none of the time
+TEST_selfcompletion_questionaire_v0001_28042025,w1q4,2,Some of the time
+TEST_selfcompletion_questionaire_v0001_28042025,w1q4,3,Often
+TEST_selfcompletion_questionaire_v0001_28042025,w1q4,4,Most or all of the time
+TEST_selfcompletion_questionaire_v0001_28042025,w1q5,1,Rarely or none of the time
+TEST_selfcompletion_questionaire_v0001_28042025,w1q5,2,Some of the time
+TEST_selfcompletion_questionaire_v0001_28042025,w1q5,3,Often
+TEST_selfcompletion_questionaire_v0001_28042025,w1q5,4,Most or all of the time
+TEST_selfcompletion_questionaire_v0001_28042025,w1q6,1,Strongly disagree
+TEST_selfcompletion_questionaire_v0001_28042025,w1q6,2,Disagree
+TEST_selfcompletion_questionaire_v0001_28042025,w1q6,3,Neither agree nor disagree
+TEST_selfcompletion_questionaire_v0001_28042025,w1q6,4,Agree
+TEST_selfcompletion_questionaire_v0001_28042025,w1q6,5,Strongly agree
+TEST_selfcompletion_questionaire_v0001_28042025,w1q7,1,Living comfortably on present income
+TEST_selfcompletion_questionaire_v0001_28042025,w1q7,2,Coping on present income
+TEST_selfcompletion_questionaire_v0001_28042025,w1q7,3,Difficult on present income
+TEST_selfcompletion_questionaire_v0001_28042025,w1q7,4,Very difficult on present income
+TEST_selfcompletion_questionaire_v0001_28042026,w1q8,1,Never
+TEST_selfcompletion_questionaire_v0001_28042027,w1q8,2,Only occasionally
+TEST_selfcompletion_questionaire_v0001_28042028,w1q8,3,A few times a week
+TEST_selfcompletion_questionaire_v0001_28042025,w1q8,4,Most days
+TEST_selfcompletion_questionaire_v0001_28042025,w1q8,5,Every day
+TEST_selfcompletion_questionaire_v0001_28042025,w1q9,1,…their mother most of the time
+TEST_selfcompletion_questionaire_v0001_28042025,w1q9,2,…their father most of the time
+TEST_selfcompletion_questionaire_v0001_28042025,w1q9,3,…both parents about an equal amount of the time
+TEST_selfcompletion_questionaire_v0001_28042025,w1q10,1,Not a priority at all
+TEST_selfcompletion_questionaire_v0001_28042025,w1q10,2,A small priority
+TEST_selfcompletion_questionaire_v0001_28042025,w1q10,3,A medium priority
+TEST_selfcompletion_questionaire_v0001_28042025,w1q10,4,An important priority
+TEST_selfcompletion_questionaire_v0001_28042025,w1q10,5,A top priority

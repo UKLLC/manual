@@ -1,6 +1,6 @@
 # Identifiable Data File (File 1) Checklist
 
-Updated identifiers (File 1s) and accompanying documentation should be submitted **each quarter**. The schedule and deadlines for File 1 submission can be found <span style= "color:red">**here**. 
+Updated identifiers (File 1s) and accompanying documentation should be submitted **each quarter**. The schedule and deadlines for File 1 submission can be [**downloaded here**](../downloads/download_intro.md). 
 
 If no updates are required, please send an email to support@ukllc.ac.uk to confirm this.
 
@@ -86,7 +86,7 @@ Do this even when data are absent for some variables. This is critical for the l
 
 <details><summary>10. Use the UK LLC 'File 1 Checker' programme to confirm that the file is formatted correctly.</summary>  
 
-* The File 1 Checker can be downloaded from Github: https://github.com/UKLLC/File-Checker  
+* The File 1 Checker can be downloaded from Github: <a href="https://github.com/UKLLC/File-Checker" target="_blank" rel="noopener noreferrer">https://github.com/UKLLC/File-Checker</a>  
 * It is a tool for LPS Data Managers to check that the contents of a File 1 are in line with the requirements set out in this guide.  
 * The checker verifies that field names and values are of expected syntax and data type. It makes no judgment on the contents of the files other than their legality under formatting rules.  
 * All File 1s MUST be cleared through the checker before being sent to DHCW.

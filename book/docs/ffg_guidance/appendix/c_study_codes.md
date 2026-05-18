@@ -1,4 +1,4 @@
-# APPENDIX C: UK LLC STUDY CODES
+# APPENDIX C: UK LLC Study Codes
 The following codes have been agreed between UK LLC and LPS. Please ensure study codes are used correctly and in accordance with the naming conventions below.  
 
 **If you need to change the study code, plase contact UK LLC to arrange this.**
@@ -7,7 +7,7 @@ The following codes have been agreed between UK LLC and LPS. Please ensure study
 |---|---|
 | AIRWAVE | Airwave Health Monitoring Study |
 | ALSPAC | Avon Longitudinal Study of Parents and Children |
-|BCS70 | 1970 British Cohort Study |
+| BCS70 | 1970 British Cohort Study |
 | BIB | Born in Bradford |
 | COMPARE | The COMPARE study |
 | ELSA | English Longitudinal Study of Ageing |

@@ -34,7 +34,7 @@ Datasets are created at the LPS’ discretion but should be as meaningful as pos
 | 10 | Name the file as detailed in the [**File 2 naming conventions**](file2_naming.md#attribute-data-files-should-be-named-as) using the agreed [**UK LLC study code**](../appendix/c_study_codes.md). |
 | 11 | If splitting one attribute file into several parts, ensure all files names contain the same date and that the separate 'batches' are numbered consecutively. |
 | 12 | Send the File 2 to Swansea University via the secure file upload portal. See '[File Transfer to UK LLC](#file-2-transfer-to-uk-llc)' (below) for upload instructions. |
-| 13 | Complete the [File 2 Documentation Template](../file2s/images/file2_documentation_template_v2.1.xlsx) (further details are [here](file2_documentation.md)). |
+| 13 | Complete the [File 2 Documentation Template](../downloads/file2_documentation_template_v2.1.xlsx) (further details are [here](file2_documentation.md)). |
 | 14 | Send the completed File 2 documentation template to both Swansea University (via the secure link) and the UK LLC Data Team (support@ukllc.ac.uk). |  
 
 ### File 2 Transfer to UK LLC

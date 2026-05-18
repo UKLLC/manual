@@ -31,6 +31,8 @@ parts:
               file: docs/ffg_guidance/appendix/b_nhs_dsas.md
             - title: C) UK LLC Study Codes
               file: docs/ffg_guidance/appendix/c_study_codes.md
+        - title: Downloads
+          file: docs/ffg_guidance/downloads/download_intro.md          
     - title: Style options
       file: docs/style_options/style_intro.md
       sections:

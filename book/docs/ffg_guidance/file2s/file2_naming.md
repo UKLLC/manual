@@ -16,13 +16,13 @@ Where:
 
 ## Metadata files (for LPS providing .csv files) should be named as:  
 
-### File 2 Variable Labels <span style="color:red">(see Table 5)  
+### File 2 Variable Labels ([see Table 5](../file2s/file2_spec.md#table-5-file-2-variable-label-csv-specification---only-relevant-if-you-do-not-store-data-in-stata-or-spss-files))  
 
 `<UK LLC Study Code>_<dataset_name>_v<version>_<description>_< YYYYMMDD>`  
 
 <span style="color:teal"><strong>e.g. EXCEED_COVIDWAVE1_v0001_description_20210514.csv</strong>  
 
-### File 2 Value Labels <span style="color:red">(see Table 6)
+### File 2 Value Labels ([see Table 6](../file2s/file2_spec.md#table-6-file-2-value-label-csv-specification---only-relevant-if-you-do-not-store-data-in-stata-or-spss-files))
 
 `<UK LLC Study Code>_<dataset_name>_v<version>_<values>_< YYYYMMDD>`  
 
@@ -33,4 +33,4 @@ Where:
 
 <span style="color:teal"><strong>e.g. EXCEED_file2documentation_v0002_20211119.xls</strong>
 
-More information of File 2 documentation in on the <span style="color:red">next page [link?]
+> **More information of File 2 documentation in on the next page.**
