@@ -1,8 +1,13 @@
-<div style="background-color: rgba(0, 178, 169); padding: 5px; border-radius: 5px;"></div style>  
+<style>
+    h1 {
+     border: 4px solid rgba(0, 178, 169);
+     padding: 10px; 
+    }
+</style> 
 
-# File Formatting Guidance
-Page last updated: 20 Apr 2026  
+## File Formatting Guidance
 
-<div style="background-color: rgba(0, 178, 169); padding: 5px; border-radius: 5px;"></div style>  
+
+
 
 
