@@ -1,6 +1,6 @@
-## UK LLC LPS Resource
+## Introduction
 
-> Last updated: 
+>Last updated: 
 
 This Jupyter book is for Longitudinal Population Studies (LPS) **data managers** working with the <a href="https://ukllc.ac.uk/" target="_blank" rel="noopener noreferrer">**UK Longitudinal Linkage Collaboration (UK LLC)**</a>.  It will ultimately provide the all the information and guidance data managers need to work with UK LLC.  
 <br>

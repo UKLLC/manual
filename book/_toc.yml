@@ -33,16 +33,3 @@ parts:
               file: docs/ffg_guidance/appendix/c_study_codes.md
         - title: Downloads
           file: docs/ffg_guidance/downloads/download_intro.md          
-    - title: Style options
-      file: docs/style_options/style_intro.md
-      sections:
-        - title: Option 1
-          file: docs/style_options/test1.md
-        - title: Option 2
-          file: docs/style_options/test2.md
-        - title: Option 3
-          file: docs/style_options/test3.md                
-        - title: Option 4
-          file: docs/style_options/test4.md
-        - title: Option 5
-          file: docs/style_options/test5.md
