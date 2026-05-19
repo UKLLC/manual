@@ -1,9 +1,11 @@
-# File Formatting Table
+# File 1 Formatting Table
+>Last modified: 19 May 2026
+<div style="background-color: rgba(0, 178, 169, 0.3); padding: 5px; border-radius: 5px;"><strong>Variable names, formats and values to include in File 1s.</strong></div>
+<br>
 
-## Table 3: File 1 formatting specification (multiple rows per individual)
-<br> 
+<big>**Table 3: File 1 formatting specification (multiple rows per individual)**</big>
 
->You must use the Field Names in the table below and File Names **MUST** have underscores between words.
+<aside class="admonition note"><p class="admonition-title">Use the exact Field Names in the table below. Field Names <strong>MUST</strong> have underscores between words.</p></aside>
 
 | <small>Order | <small>Field Name | <small>Data Type | <small>Description & values | 
 |---:|---|---|---|

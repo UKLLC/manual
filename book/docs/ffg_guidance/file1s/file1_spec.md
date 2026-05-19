@@ -1,13 +1,17 @@
 # File 1 specification
+>Last modified: 19 May 2026
+<div style="background-color: rgba(0, 178, 169, 0.3); padding: 5px; border-radius: 5px;"><strong>The format required to enable File 1s to be ingested into the TRE.</strong></div>
+<br>
 
-**The File 1 format allows multiple rows of data per participant**, where each row reflects change or multiple values for NHS ID, surname, forename or address values (with start and finish dates).  
+The File 1 format includes **permission flags** for:  
 
->It also includes **permission flags** for:
->* inclusion in [UK LLC](#permission-flags)
->* linkage to [NHS England and NHS Wales](#linkages) records  
->* linkage to [place-based (geographic) data](#place-based-data)  
->
-> The File 1 must be in a specific format as outlined in the [**File 1 formatting table**](../file1s/file1_format_table.md)
+* inclusion in [UK LLC](#permission-flags)
+* linkage to [NHS England and NHS Wales](#linkages) records  
+* linkage to [place-based (geographic) data](#place-based-data)  
+
+<aside class="admonition note"><p class="admonition-title">The File 1 format allows multiple rows of data per participant</p>Each row reflects change or multiple values for NHS ID, surname, forename or address values (with start and finish dates).</aside>
+
+The File 1 must be in a specific format as outlined in the [**File 1 formatting table**](../file1s/file1_format_table.md)
 
 **Each participant must have a 'current row' where all variables are populated with the best estimate of CURRENT information (ROW_STATUS=C)** and then subsequent rows (with the same participant STUDY_ID number) populated with the alternative HISTORICAL value(s) only (ROW_STATUS=H), leaving all other values as null. For historical addresses please populate all address and postcode fields and the start/end date fields (see Table 1).  
 
