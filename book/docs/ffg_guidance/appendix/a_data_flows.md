@@ -19,7 +19,7 @@ For more information on **NHS Wales data linkage** visit: [Processing and linkag
 
 For more information on **Place-based data linkage** visit: [Processing linkage to place-based datasets](https://guidebook.ukllc.ac.uk/docs/linked_geo_data/place_based_intro)  
 
-![](DOC-ISM-052_UK%20LLC_DataFlows_V1.4.jpg)
+![](DOC-ISM-052_UK_LLC_DataFlows_V1.4.jpg)
 
 File 1s are processed by NHS DHCW who:  
 1. Reformat and send the identifiers to linkage partners and data sources to establish linkages.
