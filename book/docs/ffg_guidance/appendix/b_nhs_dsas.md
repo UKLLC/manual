@@ -1,10 +1,13 @@
 # Appendix B: NHS IDs & Data Sharing Agreements (DSA)
+>Last modified: 20 May 2026
+<div style="background-color: rgba(0, 178, 169, 0.3); padding: 5px; border-radius: 5px;"><strong>Important information about the inclusion of NHS IDs in File 1s.</strong></div>
+<br>
 
-While NHS IDs are not essential for the linkage of participants' records with their NHS England records, their inclusion in the identifiers data (File 1) (in a field called 'NHS_NUMBER') may improve the match rates and quality. NHS IDs should be included wherever possible.  
+While NHS IDs are not essential for the linkage of participants' records with their NHS England records, their inclusion in the File 1 'identifiers' data (in a field called 'NHS_NUMBER') may improve the match rates and quality. NHS IDs should be included wherever possible.  
 
-If you are using **NHS England supplied NHS IDs**, then the use of these with UK LLC **MUST** be made **explicit and clear** in **your LPS's data sharing agreement (DSA)** with NHS England.  
+N.B. If your NHS IDs do **not** originate from NHS England, e.g. they were collected at sampling or recruitment from an NHS Trust or from participants, then this section does not apply to your LPS.
 
-N.B. If your NHS IDs do **not** originate from NHS England, e.g. they were collected at sampling or recruitment from an NHS Trust or from participants, then this section does not apply to your LPS.  
+<aside class="admonition danger"><p class="admonition-title">If you are using <strong>NHS England supplied NHS IDs</strong>, then the use of these with UK LLC MUST be made <strong>explicit and clear</strong> in your LPS's data sharing agreement (DSA) with NHS England.</p></aside>
 
 UK LLC (University of Bristol as Data Controller) holds a DSA with NHS England in which it states that LPS provide their NHS IDs to UK LLC's trusted third party (NHS DHCW) for linkage to their participants' NHS England records. However, NHS England has stipulated that the onward sharing of NHS England supplied IDs must **also be clearly stated** in the DSA the LPS holds with NHS England.  
 

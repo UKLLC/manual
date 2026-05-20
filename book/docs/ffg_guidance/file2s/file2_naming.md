@@ -1,4 +1,7 @@
 # File 2 naming conventions
+>Last modified: 20 May 2026
+<div style="background-color: rgba(0, 178, 169, 0.3); padding: 5px; border-radius: 5px;"><strong>How to name File 2s and the accompanying metadata.</strong></div>
+<br>  
 
 ## Attribute data files should be named as:
 
@@ -13,6 +16,7 @@ Where:
 | `<YYYYMMDD>` | Should be the day that the file was created and should match the date recorded in the<br> File 2 documentation. (If files are batched and sent over two or more days, they should<br> all be named with the date of the first file in the batch.)
 
 <span style="color:teal"><strong>e.g. EXCEED_COVIDWAVE1_v0001_20210514.dta</strong>  
+<br>
 
 ## Metadata files (for LPS providing .csv files) should be named as:  
 
@@ -27,10 +31,12 @@ Where:
 `<UK LLC Study Code>_<dataset_name>_v<version>_<values>_< YYYYMMDD>`  
 
 <span style="color:teal"><strong>e.g. EXCEED_COVIDWAVE1_v0001_values_20210514.csv</strong>  
+<br>
 
 ## File 2 documentation should be named as: 
 `<UK LLC Study Code>_<file2documentation>_v<version>_<version_dateYYYYMMDD>`  
 
 <span style="color:teal"><strong>e.g. EXCEED_file2documentation_v0002_20211119.xls</strong>
+<br>
 
-> **More information of File 2 documentation in on the next page.**
+<aside class="admonition note"><p class="admonition-title">More information of File 2 documentation in on the next page.</p></aside>

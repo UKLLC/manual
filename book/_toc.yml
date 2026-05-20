@@ -20,7 +20,7 @@ parts:
               file: docs/ffg_guidance/file2s/file2_spec.md
             - title: File 2 naming conventions
               file: docs/ffg_guidance/file2s/file2_naming.md
-            - title: File 2 Documentation
+            - title: File 2 documentation
               file: docs/ffg_guidance/file2s/file2_documentation.md
         - title: Appendices
           file: docs/ffg_guidance/appendix/append_intro.md

@@ -1,8 +1,11 @@
 # Attribute Data File (File 2) Checklist
+>Last modified: 20 May 2026
+<div style="background-color: rgba(0, 178, 169, 0.3); padding: 5px; border-radius: 5px;"><strong>File 2s contain a STUDY_ID and de-identified LPS data.</strong></div>
+<br>
 
 You should submit attribute data (a File 2) and accompanying documentation each time new or updated datasets are deposited into the UK LLC TRE.  
 
-File 2s contain a STUDY_ID and de-identified LPS data. We ask that LPS provide File 2s containing **logical datasets** which can be shared with researchers as full datasets rather than having to be minimised further. For example:  
+ We ask that LPS provide File 2s containing **logical datasets** which can be shared with researchers as full datasets rather than having to be minimised further. For example:  
 • A questionnaire collected at one timepoint  
 • A file of core SES/demographic indicators and timepoints  
 • Data collection assessments during a home visit  
@@ -11,7 +14,7 @@ File 2s contain a STUDY_ID and de-identified LPS data. We ask that LPS provide F
 
 Datasets are created at the LPS’ discretion but should be as meaningful as possible to a research user. If in doubt, please get in touch to discuss this: support@ukllc.ac.uk.
 
-> When preparing a File 2, please work carefully through the list below.  
+<aside class="admonition tip"><p class="admonition-title">When preparing a File 2, please work carefully through the list below.</p></aside>
 
 ## File 2 requirements
 
@@ -31,10 +34,10 @@ Datasets are created at the LPS’ discretion but should be as meaningful as pos
 |:---:|---|
 | 08 | Either prepare the File 2 in STATA/SPSS with full labelling<br>Or use the .csv specification, providing both attribute data and metadata (see [**File 2 specification**](file2_spec.md) for further details). |
 | 09 | Adhere <strong>exactly</strong> to the File 2 specification detailed on the [next page](file2_spec.md). |
-| 10 | Name the file as detailed in the [**File 2 naming conventions**](file2_naming.md#attribute-data-files-should-be-named-as) using the agreed [**UK LLC study code**](../appendix/c_study_codes.md). |
+| 10 | Name the file as detailed in the [**File 2 naming conventions**](file2_naming.md#attribute-data-files-should-be-named-as) using the agreed [UK LLC study code](../appendix/c_study_codes.md). |
 | 11 | If splitting one attribute file into several parts, ensure all files names contain the same date and that the separate 'batches' are numbered consecutively. |
 | 12 | Send the File 2 to Swansea University via the secure file upload portal. See '[File Transfer to UK LLC](#file-2-transfer-to-uk-llc)' (below) for upload instructions. |
-| 13 | Complete the [File 2 Documentation Template](../downloads/file2_documentation_template_v2.1.xlsx) (further details are [here](file2_documentation.md)). |
+| 13 | Complete the File 2 Documentation Template as described [here](file2_documentation.md). |
 | 14 | Send the completed File 2 documentation template to both Swansea University (via the secure link) and the UK LLC Data Team (support@ukllc.ac.uk). |  
 
 ### File 2 Transfer to UK LLC

@@ -1,7 +1,10 @@
 # APPENDIX C: UK LLC Study Codes
-The following codes have been agreed between UK LLC and LPS. Please ensure study codes are used correctly and in accordance with the naming conventions below.  
+>Last modified: 20 May 2026
+<div style="background-color: rgba(0, 178, 169, 0.3); padding: 5px; border-radius: 5px;"><strong>Please ensure study codes are used correctly and in accordance with the naming conventions below.</strong></div>
+<br>
 
-**If you need to change the study code, plase contact UK LLC to arrange this.**
+The following codes have been agreed between UK LLC and LPS.  
+If you need to change the study code, please contact UK LLC to arrange this.
 
 | UK LLC Study Code | LPS |
 |---|---|
