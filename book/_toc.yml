@@ -3,7 +3,7 @@ root: intro
 
 parts:
   - chapters:
-    - title: Format of Data Files
+    - title: 1) Format of Data Files
       file: docs/ffg_guidance/ffg_intro.md
       sections:
         - title: File 1s (identifiers)
@@ -32,4 +32,10 @@ parts:
             - title: C) UK LLC Study Codes
               file: docs/ffg_guidance/appendix/c_study_codes.md
         - title: Downloads
-          file: docs/ffg_guidance/downloads/download_intro.md          
+          file: docs/ffg_guidance/downloads/download_intro.md
+    - title: 2) Study Zones
+      file: docs/studyzones/sz_intro.md
+    - title: 3) MMS
+      file: docs/mms/mms_intro.md
+    - title: 4) Applications
+      file: docs/applications/apply_intro.md          
