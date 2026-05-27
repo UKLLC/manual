@@ -1,6 +1,6 @@
-# Introduction: LPS Resource
->Last modified: 22 May 2026
-<div style="background-color: rgba(0, 178, 169, 0.3); padding: 5px; border-radius: 5px;"><strong>This Resource is for LPS data managers working with UK LLC.</strong></div>
+# Introduction: LPS manual
+>Last modified: 27 May 2026
+<div style="background-color: rgba(0, 178, 169, 0.3); padding: 5px; border-radius: 5px;"><strong>This information is for LPS data managers working with UK LLC.</strong></div>
 <br>
 It will ultimately provide the all the information and guidance data managers need to work with UK LLC.  
 
