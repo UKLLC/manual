@@ -1,6 +1,6 @@
 # File 1 specification
->Last modified: 19 May 2026
-<div style="background-color: rgba(0, 178, 169, 0.3); padding: 5px; border-radius: 5px;"><strong>The format required to enable File 1s to be ingested into the TRE.</strong></div>
+>Last modified: 29 May 2026
+<div style="background-color: rgba(0, 178, 169, 0.3); padding: 5px; border-radius: 5px;"><strong>The file format required to enable File 1s to be ingested into the TRE.</strong></div>
 <br>
 
 The File 1 format includes **permission flags** for:  

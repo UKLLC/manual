@@ -1,11 +1,11 @@
 # Study Zones
->Last modified: 22 May 2026
+>Last modified: 29 May 2026
 <div style="background-color: rgba(0, 178, 169, 0.3); padding: 5px; border-radius: 5px;"><strong>Study Zones are dedicated spaces within the TRE for each partner LPS.</strong></div>
 <br>
 
 Study Zones enable LPS partners to access data from their own LPS linked to NHS England data. In a Study Zone, LPS partners can conduct quality checks, curation and methodological enhancement of their LPS data.  
 
-**You must not do any applied research in your Study Zone.** If you want to conduct an applied research project, you’ll need to submit an Expression of Interest (EoI). For instructions, see <a href="https://guidebook.ukllc.ac.uk/docs/applying/applying/intro.html" target="_blank" rel="noopener noreferrer">UK LLC Guidebook: How do I apply?</a> 
+<aside class="admonition note"><p class="admonition-title">You must not do any applied research in your Study Zone.</p>If you want to conduct an applied research project, you’ll need to submit an Expression of Interest (EoI). For instructions, see <a href="https://guidebook.ukllc.ac.uk/docs/applying/applying/intro.html" target="_blank" rel="noopener noreferrer">UK LLC Guidebook: How do I apply?</a></aside>
 
 **Access to Study Zones**  
 LPS partners can access their Study Zones as soon as:
