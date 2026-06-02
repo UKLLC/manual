@@ -1,7 +1,6 @@
 # File 2 naming conventions
->Last modified: 20 May 2026
+>Last modified: 02 Jun 2026
 <div style="background-color: rgba(0, 178, 169, 0.3); padding: 5px; border-radius: 5px;"><strong>How to name File 2s and the accompanying metadata.</strong></div>
-<br>  
 
 ## Attribute data files should be named as:
 
@@ -39,4 +38,4 @@ Where:
 <span style="color:teal"><strong>e.g. EXCEED_file2documentation_v0002_20211119.xls</strong>
 <br>
 
-<aside class="admonition note"><p class="admonition-title">More information of File 2 documentation in on the next page.</p></aside>
+<aside class="admonition note"><p class="admonition-title">More information on File 2 documentation in on the next page.</p></aside>

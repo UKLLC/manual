@@ -1,5 +1,5 @@
 # Identifiable Data File (File 1) Checklist
->Last modified: 19 May 2026
+>Last modified: 02 Jun 2026
 <div style="background-color: rgba(0, 178, 169, 0.3); padding: 5px; border-radius: 5px;"><strong>Updated identifiers (File 1s) and accompanying documentation should be submitted each quarter.</strong></div>
 <br>
 
@@ -88,7 +88,7 @@ File 1 updates should follow the File 1 naming convention, with each update give
 
 <details><summary>9. Retain all variables and use the exact variable names, in the same order as the <b>File 1 formatting table</b></summary>  
 
-Do this even when data are absent for some variables. This is critical for the linkage process. The File 1 formatting table is on the [**next page**](../file1s/file1_format_table.md).
+Do this even when data are absent for some variables. This is critical for the linkage process. The File 1 formatting table is [**here**](../file1s/file1_format_table.md).
 </details>  
 
 <details><summary>10. Use the UK LLC 'File 1 Checker' programme to confirm that the file is formatted correctly.</summary>  
@@ -107,7 +107,7 @@ Do this even when data are absent for some variables. This is critical for the l
 * **DO NOT SEND THE FILE 1 TO ANY OTHER ORGANISATION.**
 </details>
 
-<details><summary>12. Send the 'File 1 checker' output (File1_doc.json) to the UK LLC Data Team (<b>support@ukllc.ac.uk</b>)</summary>  
+<details><summary>12. Send the 'File 1 checker' output (<b>File1_doc.json</b>) to the UK LLC Data Team (support@ukllc.ac.uk)</summary>  
 
 * The File 1 documentation enables UK LLC and research users to understand the sample provided by each LPS and how it relates to the LPS headline denominator.
 * This step is important, because without this information it will be difficult for analysts to consider the risk of potential bias and issues relating to generalisability.

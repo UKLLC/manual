@@ -1,6 +1,6 @@
 # File 2 documentation
->Last modified: 20 May 2026
-<div style="background-color: rgba(0, 178, 169, 0.3); padding: 5px; border-radius: 5px;"><strong>LPS must send File 2 documentation to Swansea University and the UK LLC Data Team at the same time File 2s are sent.</strong></div>
+>Page last modified: 02 Jun 2026
+<div style="background-color: rgba(0, 178, 169, 0.3); padding: 5px; border-radius: 5px;"><strong>LPS must send File 2 documentation to Swansea University and the UK LLC Data Team when the File 2s are sent.</strong></div>
 <br>  
 
 **Use the File 2 Documentation Template (in Excel format), available to download [here](../downloads/file2_documentation_template_v2.1.xlsx)**.  
@@ -9,11 +9,11 @@ Please follow the instructions and carefully work through the template, entering
 
 In the File 2 spreadsheet, please include links to your **LPS main documentation**. Where possible, each File 2 should link to documentation which specifically describes the data, its collection and inclusion/exclusion criteria. This information will be made available to researchers via <a href="https://explore.ukllc.ac.uk/" target="_blank" rel="noopener noreferrer">**Explore**</a> (UK LLC’s data discoverability tool).  
 
-Columns 20-25 request the names of variables for LPS participants' sex, gender (where asked about separately from sex), ethnic group, year of birth, and level of education. These variables are required for UK LLC to be able to standardise ('harmonise') some key characteristics across all LPS. This enables our partners and data users to understand the profile of the UK LLC resource as a whole.  
+Columns 20-25 in the File 2 documentation request the names of variables for LPS participants' sex, gender (where asked about separately from sex), ethnic group, year of birth, and level of education. These variables are required for UK LLC to be able to standardise ('harmonise') some key characteristics across all LPS. This enables our partners and data users to understand the profile of the UK LLC resource as a whole.  
 
-We will incorporate your study’s socio-demographic data into the overall cohort profile and will make this available on <a href="https://guidebook.ukllc.ac.uk/docs/ukllc_managed_data/datasets/sociodemo_harmonised/sociodemo_harmonised.html" target="_blank" rel="noopener noreferrer">**Guidebook**</a>. Please note that UK LLC will not change your data in any way. We are generating new, harmonised, datasets which researchers can request in addition to LPS or linked data.   
+We will incorporate your study’s socio-demographic data into the overall cohort profile and will make this available on <a href="https://guidebook.ukllc.ac.uk/docs/ukllc_managed_data/datasets/sociodemo_harmonised/sociodemo_harmonised.html" target="_blank" rel="noopener noreferrer">**UK LLC Guidebook**</a>. Please note that UK LLC will not change your data in any way. We are generating new, harmonised, datasets which researchers can request in addition to LPS or linked data.   
 
-<aside class="admonition note"><p class="admonition-title">Please retain a copy of the File 2 documentation and use the same spreadsheet to record future datasets shared with UK LLC.</p> There should be a single File 2 Documentation sheet for each participating LPS, which reflects all File 2s deposited in the UK LLC TRE over time.</aside>
+<aside class="admonition note"><p class="admonition-title">Please retain a copy of the File 2 documentation and use the same spreadsheet to record future datasets shared with UK LLC.</p> There should be a single File 2 documentation sheet for each participating LPS, which reflects all File 2s deposited in the UK LLC TRE over time.</aside>
 <br>  
 
 **File 2 documentation should be named using the following convention:**  

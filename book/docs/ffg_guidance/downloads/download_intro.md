@@ -1,7 +1,6 @@
 # Downloadable files
->Last modified: 20 May 2026
+>Last modified: 02 Jun 2026
 <div style="background-color: rgba(0, 178, 169, 0.3); padding: 5px; border-radius: 5px;"><strong>Templates and guidance to help in the preparation of File 1s and File 2s for upload to the UK LLC TRE.</strong></div>
-<br>
 
 ## File 1 downloads
 File 1 windows (submission dates): [](2026_file1_timeline_and_deadlines.docx)
