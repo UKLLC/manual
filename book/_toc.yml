@@ -35,7 +35,7 @@ parts:
           file: docs/ffg_guidance/downloads/download_intro.md
     - title: 2) Study Zones
       file: docs/studyzones/sz_intro.md
-    - title: 3) MMS
+    - title: 3) MMS (coming soon)
       file: docs/mms/mms_intro.md
-    - title: 4) Applications
+    - title: 4) Applications (coming soon)
       file: docs/applications/apply_intro.md          
