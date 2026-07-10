@@ -1,5 +1,5 @@
 # Introduction
->Last modified: 08 Jun 2026
+>Last modified: 10 Jul 2026
 <div style="background-color: rgba(0, 178, 169, 0.3); padding: 5px; border-radius: 5px;"><strong>This Resource is for LPS data managers working with UK LLC.</strong></div>
 <br>
 It will ultimately provide all the information and guidance data managers need to work with UK LLC.  
@@ -11,13 +11,13 @@ It will ultimately provide all the information and guidance data managers need t
 <aside class="admonition tip"><p class="admonition-title">Researchers interested in working with UK LLC should visit <a href="https://guidebook.ukllc.ac.uk/" target="_blank" rel="noopener noreferrer">Guidebook</p></aside>
 </a>
 
-Current contents:  
+**Current contents:**  
 
 1) [File Formatting Guidance](../book/docs/ffg_guidance/ffg_intro.md): how to upload LPS data to the UK LLC Trusted Research Environment (TRE)  
 
 2) [Study Zones](../book/docs/studyzones/sz_intro.md): TRE access for LPS team members to run quality checks on their own linkages 
 
-Coming soon:
+**Coming soon:**
 
 3) Metadata Management System (MMS): how to upload and update LPS metadata
 

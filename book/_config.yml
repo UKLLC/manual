@@ -2,7 +2,7 @@ title: UK LLC Partner LPS Manual
 author: UK LLC Data Team
 logo: docs/images/UKLLC_Logo_Landscape_Black.jpg
 email: support@ukllc.ac.uk
-description: A manual for UK LLC data managers
+description: A manual for partner LPS data managers
 
 execute:
   execute_notebooks: auto
