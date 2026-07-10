@@ -18,5 +18,10 @@ html:
   css_files:
     - custom.css
   extra_footer: |
-    CC BY-NC-SA The UK LLC Guidebook and materials are available publicly under <a href="https://github.com/UKLLC/licencing">open source licenses</a>
+    CC BY-NC-SA The UK LLC Manual and materials are available publicly under <a href="https://github.com/UKLLC/licencing">open source licenses</a>
   favicon: "docs/images/favicon.ico"  # A path to a favicon image
+
+# control footer copywrite
+sphinx:
+  config                    : 
+    html_show_copyright     : false
