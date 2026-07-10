@@ -1,5 +1,7 @@
-title: UK LLC Manual
+title: UK LLC Partner LPS Manual
 author: UK LLC Data Team
+logo: docs/images/UKLLC_Logo_Landscape_Black.jpg
+email: support@ukllc.ac.uk
 description: A manual for UK LLC data managers
 
 execute:
@@ -15,3 +17,6 @@ html:
   use_repository_button: true
   css_files:
     - custom.css
+  extra_footer: |
+    CC BY-NC-SA The UK LLC Guidebook and materials are available publicly under <a href="https://github.com/UKLLC/licencing">open source licenses</a>
+  favicon: "docs/images/favicon.ico"  # A path to a favicon image
