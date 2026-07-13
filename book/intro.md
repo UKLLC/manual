@@ -1,6 +1,6 @@
 # Introduction
->Last modified: 10 Jul 2026
-<div style="background-color: rgba(0, 178, 169, 0.3); padding: 5px; border-radius: 5px;"><strong>This Resource is for LPS data managers working with UK LLC.</strong></div>
+>Last modified: 13 Jul 2026
+<div style="background-color: rgba(0, 178, 169, 0.3); padding: 5px; border-radius: 5px;"><strong>This Manual is for LPS data managers working with UK LLC.</strong></div>
 <br>
 It will ultimately provide all the information and guidance data managers need to work with UK LLC.  
 
@@ -24,4 +24,4 @@ It will ultimately provide all the information and guidance data managers need t
 4) UK LLC Apply: how to review applications to use LPS data in the TRE  
 <br>
 
->Any queries about the content of this LPS resource should be directed to [**support@ukllc.ac.uk**](mailto:support@ukllc.ac.uk).
+>Any queries about the content of this Partner LPS Manual should be directed to [**support@ukllc.ac.uk**](mailto:support@ukllc.ac.uk).

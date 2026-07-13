@@ -1,5 +1,5 @@
 # Identifiable Data File (File 1) Checklist
->Last modified: 02 Jun 2026
+>Last modified: 13 Jul 2026
 <div style="background-color: rgba(0, 178, 169, 0.3); padding: 5px; border-radius: 5px;"><strong>Updated identifiers (File 1s) and accompanying documentation should be submitted each quarter.</strong></div>
 <br>
 
@@ -81,7 +81,7 @@ Where:
 * version: Corresponds to a numeric versioning value as sequenced by the LPS in order of deposit to NHS DHCW
 * YYYYMMDD: The date should be the day that the file was created.
 
-<span style="color:teal">e.g. EXCEED_FILE1_v1_20210514.csv</span>
+<span style="color:teal"><strong>e.g. EXCEED_FILE1_v1_20210514.csv</strong></span>
 
 File 1 updates should follow the File 1 naming convention, with each update given a new sequential version number and date. Clearly label versions of new files using file naming convention above.
 </details>  
@@ -118,4 +118,4 @@ Do this even when data are absent for some variables. This is critical for the l
 
 <br>
 
-><strong>The File 1 specification is outlined on the next [page](../file1s/file1_spec.md)
+><strong>The File 1 specification is outlined on the next [page](../file1s/file1_spec.md)</strong>

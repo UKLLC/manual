@@ -1,5 +1,5 @@
 # File 1 Formatting Table
->Last modified: 01 Jun 2026
+>Last modified: 13 Jul 2026
 <div style="background-color: rgba(0, 178, 169, 0.3); padding: 5px; border-radius: 5px;"><strong>Variable names, formats and values to include in File 1s.</strong></div>
 <br>
 
@@ -33,7 +33,7 @@
 | 22<br><br><br> | NHS_S_Study<br>_Number<br><br> | varchar(50)<br><br><br> | Participant’s PHS ID<br>9 = unknown.<br><details><summary>Explanation</summary>Unique identifier assigned by Public Health Scotland to a research/data access project | 
 | 23<br><br><br> | NHS_W_Linkage<br>_Permission<br><br> | char(1)<br><br><br> | 1=included<br>0=identifiers should not be forwarded for linkage to NHS DHCW.<br><details><summary>Explanation</summary>If value is set to '1', participants are linked with their Welsh health records (where available) | 
 | 24<br><br><br> | NHS_NI_Linkage<br>_Permission<br><br> | char(1)<br><br><br> | 1=included<br>0=identifiers should not be forwarded for linkage to the HSCNI.<br><details><summary>Explanation</summary>If value is set to '1', participants will be linked with their Northern Irish health records (once these linkages are established) | 
-| 25<br><br><br> | NHS_NI_Study<br>_Number<br><br> | varchar(50)<br><br><br> | Participant’s HSCNI <span style="color:red">**BDS ID**</span><br>9=unknown.<br><details><summary>Explanation</summary>Unique identifier assigned to each individual in Northern Ireland (NI) registered within the Health and Social Care system | 
+| 25<br><br><br> | NHS_NI_Study<br>_Number<br><br> | varchar(50)<br><br><br> | Participant’s HSCNI BDS ID<br>9=unknown.<br><details><summary>Explanation</summary>Unique identifier assigned to each individual in Northern Ireland (NI) registered within the Health and Social Care system | 
 | 26<br><br><br><br> | Geocoding_<br>Permission<br><br><br> | char(1)<br><br><br><br> | 2=included for full address<br>1=included for postcode only<br>0=objects and data should not be forwarded for geocoding to Leicester.<br><details><summary>Explanation</summary>Indicates whether address data can be geocoded to property, postcode level, or not at all.</details> |
 | 27<br><br><br> | Small_Area<br>_Permission<br><br> | char(1)<br><br><br> | 1=included for LSOA/DZ/SOA or higher<br>0=objects and data should not be forwarded for linkage to SeRP.<br><details><summary>Explanation</summary>Place-based information can be linked using encrypted Lower Super Output Area (LSOA)/Data Zone (DZ)/ Super Output Area (SOA) and higher-level indicators originating from linked sources.</details> |
 | 28<br><br><br> | Environment<br>_Permission<br><br> | char(1)<br><br><br> | 1= included<br>0= objects and data should not be forwarded for linkage to Leicester/SeRP.<br><details><summary>Explanation</summary>UK LLC can link sources of natural and built environment data subject to prior notification via Vanguard/email.

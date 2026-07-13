@@ -1,5 +1,5 @@
 # File 2 documentation
->Page last modified: 02 Jun 2026
+>Page last modified: 13 Jul 2026
 <div style="background-color: rgba(0, 178, 169, 0.3); padding: 5px; border-radius: 5px;"><strong>LPS must send File 2 documentation to Swansea University and the UK LLC Data Team when the File 2s are sent.</strong></div>
 <br>  
 
@@ -39,7 +39,7 @@ File 2 updates are only required in the following scenarios:
 
 The File 2 documentation spreadsheet should be updated to include the new files:  
 
-**Example - second data deposit - update in File 2 documentation (EXCEED_file2documentation_v0001_20211119)**  
+**Example - second data deposit - update in File 2 documentation (EXCEED_file2documentation_v0002_20211119)**  
 | 1. Date file sent<br> to Swansea | 2. Dataset File Name | ... | 6. File Format (STATA, SPSS, CSV),<br> including the version used to<br> generate data) |
 |---|---|---|---|
 | 20211002 | covidw1_data_v0001_20211002 | | SPSS |

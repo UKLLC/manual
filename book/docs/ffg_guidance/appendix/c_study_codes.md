@@ -1,5 +1,5 @@
 # APPENDIX C: UK LLC Study Codes
->Last modified: 20 May 2026
+>Last modified: 13 Jul 2026
 <div style="background-color: rgba(0, 178, 169, 0.3); padding: 5px; border-radius: 5px;"><strong>Please ensure study codes are used correctly and in accordance with the naming conventions below.</strong></div>
 <br>
 
@@ -12,6 +12,7 @@ If you need to change the study code, please contact UK LLC to arrange this.
 | ALSPAC | Avon Longitudinal Study of Parents and Children |
 | BCS70 | 1970 British Cohort Study |
 | BIB | Born in Bradford |
+| CaPS | Caerphilly Prospective Study |
 | COMPARE | The COMPARE study |
 | ELSA | English Longitudinal Study of Ageing |
 | EPICN | European Prospective Investigation into Cancer - Norfolk Study |
