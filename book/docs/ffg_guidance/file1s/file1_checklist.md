@@ -1,5 +1,5 @@
 # Identifiable Data File (File 1) Checklist
->Last modified: 13 Jul 2026
+>Last modified: 28 Jul 2026
 <div style="background-color: rgba(0, 178, 169, 0.3); padding: 5px; border-radius: 5px;"><strong>Updated identifiers (File 1s) and accompanying documentation should be submitted each quarter.</strong></div>
 <br>
 
@@ -12,8 +12,9 @@
 ## File 1 (identifiers) requirements:  
 <details>
 <summary>1. Set up an account with NHS Digital Health & Care Wales (DCHW)</summary>  
-A secure electronic data transfer facility at NHS DHCW is available for uploading participant identifiers. NHS DHCW has been informed of all LPS and data managers’ details, so is expecting LPS Data Managers to be in contact to set-up accounts.
-To set up an account contact <strong>pdit@wales.nhs.uk</strong> and request an account for UK LLC. In this email please specify:  
+A secure electronic data transfer facility at NHS DHCW is available for uploading participant identifiers. NHS DHCW has been informed of all LPS and data managers’ details, so is expecting LPS Data Managers to be in contact to set-up accounts.  
+
+To set up an account contact <strong>pdit@wales.nhs.uk</strong> and request an account for UK LLC, copying in support@ukllc.ac.uk. In this email please specify:  
 
 * Your name  
 * Your institution, including centre, e.g. Joe Blogs, Centre for XYZ, University of Nowhere.
