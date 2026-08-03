@@ -1,9 +1,9 @@
 # Identifiable Data File (File 1) Checklist
->Last modified: 28 Jul 2026
+>Last modified: 03 Aug 2026
 <div style="background-color: rgba(0, 178, 169, 0.3); padding: 5px; border-radius: 5px;"><strong>Updated identifiers (File 1s) and accompanying documentation should be submitted each quarter.</strong></div>
 <br>
 
- The schedule and deadlines for File 1 submission can be found [**here**](../downloads/download_intro.md). If no updates are required, please send an email to support@ukllc.ac.uk to confirm this.
+ The schedule and deadlines for File 1 submission can be found [**here**](../key_dates.md). If no updates are required, please send an email to support@ukllc.ac.uk to confirm this.
 
 <aside class="admonition tip"><p class="admonition-title">When preparing a File 1, please work carefully through the list below.</p></aside>
 

@@ -3,9 +3,11 @@ root: intro
 
 parts:
   - chapters:
-    - title: 1) Format of Data Files
+    - title: 1) Uploading Data Files
       file: docs/ffg_guidance/ffg_intro.md
       sections:
+        - title: Key dates
+          file: docs/ffg_guidance/key_dates.md
         - title: File 1s (identifiers)
           file: docs/ffg_guidance/file1s/file1_checklist.md
           sections:
