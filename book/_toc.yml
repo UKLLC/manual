@@ -40,4 +40,6 @@ parts:
     - title: 3) MMS (coming soon)
       file: docs/mms/mms_intro.md
     - title: 4) Applications (coming soon)
-      file: docs/applications/apply_intro.md          
+      file: docs/applications/apply_intro.md
+    - title: FAQs
+      file: docs/faqs/faqs.md          
