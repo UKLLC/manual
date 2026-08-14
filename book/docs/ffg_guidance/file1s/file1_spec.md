@@ -1,5 +1,5 @@
 # File 1 specification
->Last modified: 02 Jun 2026
+>Last modified: 14 Aug 2026
 <div style="background-color: rgba(0, 178, 169, 0.3); padding: 5px; border-radius: 5px;"><strong>The file format required to enable File 1s to be ingested into the TRE.</strong></div>
 <br>
 
@@ -16,9 +16,11 @@ The File 1 must be in a specific format as outlined in the [**File 1 formatting 
 **Each participant must have a 'current row' where all variables are populated with the best estimate of CURRENT information (ROW_STATUS=C)**.  
 Subsequent rows (with the same participant STUDY_ID) are populated with alternative, HISTORICAL value(s) only (ROW_STATUS=H). Leave all other values as null in the historical rows. For historical addresses, populate all address and postcode fields and the start/end date fields (see Table 1).  
 
-If a participant withdraws from the LPS or no longer permits the flow of their identifiers for linkage, you must set their permission flags in the 'current' row accordingly to stop their data flowing. For example, if a participant withdraws consent to share their data with UK LLC, set their UKLLC_STATUS to 0 in the 'current row'.
+If a participant withdraws from the LPS or no longer permits the flow of their identifiers for linkage, you must set their permission flags in the 'current' row accordingly to stop their data flowing. For example, if a participant withdraws consent to share their data with UK LLC, set their UKLLC_STATUS to 0 in the 'current row'.  
 
-<aside class="admonition danger"><p class="admonition-title">Deleting previously listed participants in a File 1 update will NOT stop their data from flowing.</p>You MUST use permission flags.</aside>
+**If a participant withdraws permission for their identifiers to be shared with UK LLC, these variables can be set to NULL, as long as study_id and all permission flags are present.**
+
+<aside class="admonition danger"><p class="admonition-title">Deleting previously listed participants in a File 1 update will NOT stop their data from flowing.</p>You MUST retain study_id and use permission flags.</aside>
 <br>
 
 <i>**Table 1**: Example File 1 content for a single fabricated LPS participant - in this example a limited number of variables is shown (see the [**File 1 formatting table**](file1_format_table.md) for the full list)</i>

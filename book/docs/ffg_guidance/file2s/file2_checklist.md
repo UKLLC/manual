@@ -1,9 +1,12 @@
 # Attribute Data File (File 2) Checklist
->Last modified: 02 Jun 2026
+>Last modified: 14 Aug 2026
 <div style="background-color: rgba(0, 178, 169, 0.3); padding: 5px; border-radius: 5px;"><strong>File 2s contain a STUDY_ID and de-identified LPS data.</strong></div>
 <br>
 
 You should submit attribute data (a File 2) and accompanying documentation each time new or updated datasets are deposited into the UK LLC TRE.  
+
+<aside class="admonition note"><p class="admonition-title"><b>New partner LPS</b> should send a File 2 within two months of receiving their Owncloud link from the SeRP Help Desk.</p></aside>  
+<br>
 
  We ask that LPS provide File 2s containing **logical datasets** which can be shared with researchers as full datasets rather than having to be minimised further. For example:  
 • A questionnaire collected at one timepoint  

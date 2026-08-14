@@ -1,5 +1,5 @@
 # Frequently asked questions
->Last modified: 05 Aug 2026
+>Last modified: 14 Aug 2026
 <div style="background-color: rgba(0, 178, 169, 0.3); padding: 5px; border-radius: 5px;"><strong>Answers to LPS data managers' questions.</strong></div>
 <br>
 More questions and answers will be added as the content of this Manual expands.
@@ -15,6 +15,11 @@ More questions and answers will be added as the content of this Manual expands.
 <aside class="admonition danger"><p class="admonition-title">Never send any File 1 or File 2 data by email.</p>All data must be transferred to the TRE by following the distinct<a 
 href="https://manual.ukllc.ac.uk/docs/ffg_guidance/ffg_intro.html" target="_blank" rel="noopener 
 noreferrer">File 1 and File 2 processes.</a></aside>
+
+</details>  
+
+<details><summary>Are Stata 'notes' retained in File 2 uploads?</summary>
+Data ingested into the TRE is changed to csv format. Only attributes, value labels and variable labels are retained.
 
 </details>
 
