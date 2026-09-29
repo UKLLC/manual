@@ -1,5 +1,5 @@
 # Frequently asked questions
->Last modified: 14 Aug 2026
+>Last modified: 28 Sep 2026
 <div style="background-color: rgba(0, 178, 169, 0.3); padding: 5px; border-radius: 5px;"><strong>Answers to LPS data managers' questions.</strong></div>
 <br>
 More questions and answers will be added as the content of this Manual expands.
@@ -23,10 +23,10 @@ Data ingested into the TRE is changed to csv format. Only attributes, value labe
 
 </details>
 
-## Study Zones  
+## MMS (Metadata Management System)  
 > coming soon
 
-## MMS (Metadata Management System)  
+## Study Zones  
 > coming soon
 
 ## Applications

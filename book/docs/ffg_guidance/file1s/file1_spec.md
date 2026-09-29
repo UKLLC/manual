@@ -1,5 +1,5 @@
 # File 1 specification
->Last modified: 14 Aug 2026
+>Last modified: 28 Sep 2026
 <div style="background-color: rgba(0, 178, 169, 0.3); padding: 5px; border-radius: 5px;"><strong>The file format required to enable File 1s to be ingested into the TRE.</strong></div>
 <br>
 
@@ -7,7 +7,8 @@ The File 1 format includes **permission flags** for:
 
 * inclusion in [UK LLC](#permission-flags)
 * linkage to [NHS England and NHS Wales](#linkages) records  
-* linkage to [place-based (geographic) data](#place-based-data)  
+* linkage to [place-based (geographic) data](#place-based-data)
+* linkage to administrative data  
 
 <aside class="admonition note"><p class="admonition-title">The File 1 format allows multiple rows of data per participant</p>Each row reflects change or multiple values for NHS ID, surname, forename or address values (with start and finish dates).</aside>
 
@@ -39,11 +40,9 @@ There are 34 fields that should be completed, including permission flags. These 
 Permission flags indicate if a participant’s identifiers can be **shared for linkages** and with whom. Flags can be set at an **individual participant level** or at an **LPS level**. In Table 1 above, the participant with STUDY_ID 1 (Andy Boyd) has consented to have data flow to UK LLC (UKLLC_STATUS=1), but has not consented to NHS England Linkage (NHS_E_Linkage_Permission=0).
 
 ## Linkages
-If indicated by the **NHS_E_Linkage_Permission** field and **NHS_W_Linkage_Permission** field, participants are linked with their English health records (NHS England) and Welsh health records (NHS Wales), respectively. There are ongoing discussions to also flow Scottish (Public Health Scotland) and Northern Irish (Health & Social Care Northern Ireland) NHS records into the UK LLC TRE.  
+If indicated by the **NHS_E_Linkage_Permission** field and **NHS_W_Linkage_Permission** field, participants are linked with their English health records (NHS England) and Welsh health records (NHS Wales), respectively.  
 
 Where an LPS has already linked their cohort with an NHS agency, then they should include participants' NHS Digital study number so that the existing linkage can be replicated for UK LLC. This will be efficient and aid consistency of linkages across different datasets.  
-
-N.B. UK LLC is also finalising an agreement to link to non-health administrative records from the Department for Work and Pensions (DWP), HM Revenue and Customs (HMRC) and Department for Education (DfE) via the Office for National Statistics (ONS).  
 
 We acknowledge that there will be instances where data may be incomplete, e.g. missing day of birth; gaps in timeline of past addresses; missing or incomplete start and end dates for addresses. **Any information you can provide is helpful, even incomplete NHS numbers (if allowed by your DSA with NHS England)**. When these data are used for performing linkage, partial information can increase the chance of linkages being successful.  
 
@@ -56,7 +55,7 @@ d. Property_Level_Permission
 
 More information on each of these is provided in lines 26 – 29 of the [**File 1 formatting table**](file1_format_table.md).  
 
-If indicated by the **Geocoding_Permission** field, DHCW shares participants’ address history with agreed partners, masked by the inclusion of additional addresses, for linkage to geocoded data. The partners do not receive any information except encrypted STUDY_ID, full address or postcode, and address start and finish dates. For more information on place-based data processing and linkage visit <strong><a href="https://guidebook.ukllc.ac.uk/docs/linked_geo_data/place_based_intro" target="_blank" rel="noopener noreferrer">UK LLC Guidebook</a></strong>.
+If indicated by the **Geocoding_Permission** field, DHCW shares participants’ address history with agreed partners (masked by the inclusion of additional addresses) for linkage to geocoded data. The partners do not receive any information except encrypted STUDY_ID, full address or postcode, and address start and finish dates. For more information on place-based data processing and linkage visit <strong><a href="https://guidebook.ukllc.ac.uk/docs/linked_geo_data/place_based_intro" target="_blank" rel="noopener noreferrer">UK LLC Guidebook</a></strong>.
 
 Address start and end dates are used, e.g. to calculate exposure to air pollution. In these cases, even incomplete temporal information is of use, so providing the year of start and end at a residence is of value and will allow for more accurate calculations of air pollution exposure.
 

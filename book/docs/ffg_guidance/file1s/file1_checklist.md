@@ -1,9 +1,10 @@
 # Identifiable Data File (File 1) Checklist
->Last modified: 03 Aug 2026
+>Last modified: 29 Sep 2026
 <div style="background-color: rgba(0, 178, 169, 0.3); padding: 5px; border-radius: 5px;"><strong>Updated identifiers (File 1s) and accompanying documentation should be submitted each quarter.</strong></div>
 <br>
 
- The schedule and deadlines for File 1 submission can be found [**here**](../key_dates.md). If no updates are required, please send an email to support@ukllc.ac.uk to confirm this.
+ The schedule and deadlines for File 1 submission can be found [**here**](../key_dates.md).  
+ If no updates are required, please email support@ukllc.ac.uk to confirm this.
 
 <aside class="admonition tip"><p class="admonition-title">When preparing a File 1, please work carefully through the list below.</p></aside>
 
@@ -11,7 +12,7 @@
 
 ## File 1 (identifiers) requirements:  
 <details>
-<summary>1. Set up an account with NHS Digital Health & Care Wales (DCHW)</summary>  
+<summary>1. Set up an account with NHS Digital Health & Care Wales (DHCW)</summary>  
 A secure electronic data transfer facility at NHS DHCW is available for uploading participant identifiers. NHS DHCW has been informed of all LPS and data managers’ details, so is expecting LPS Data Managers to be in contact to set-up accounts.  
 
 To set up an account contact <strong>pdit@wales.nhs.uk</strong> and request an account for UK LLC, copying in support@ukllc.ac.uk. In this email please specify:  
@@ -21,7 +22,7 @@ To set up an account contact <strong>pdit@wales.nhs.uk</strong> and request an a
 * The datasets you are uploading – this is the LPS title.
 * That you would like to set up a UK LLC account.  
 
-<aside class="admonition danger"><p class="admonition-title">Do NOT send File 1s to the UK LLC Data Team or Swansea University.</p>NEVER send File 1s via e-mail as it NOT secure for transferring potentially sensitive personal information.</aside>
+<aside class="admonition danger"><p class="admonition-title">Do NOT send File 1s to the UK LLC Data Team or Swansea University.</p>NEVER send File 1s via email as it NOT secure for transferring potentially sensitive personal information.</aside>
 
 </details>
 
@@ -42,13 +43,13 @@ More information about this is provided in [**Appendix B**](../appendix/b_nhs_ds
 
 <details><summary>4. Produce one file of identifiers (a File 1) per LPS.</summary>  
 
-You should update this periodically (to add new participants, to amend permission flags or to add address information for geocoding). You will be asked every quarter to send an updated File 1 to NHS DHCW to reflect the latest withdrawals of consent and update of permission status flags.  
-However, if there are NO changes to the content of a File 1, then there is NO requirement to send a File 1, but please email [support@ukllc.ac.uk](mailto:support@ukllc.ac.uk) to confirm this.
+You should update this periodically (to add new participants, to amend permission flags or to add address information for geocoding). You will be asked **every quarter** to send an updated File 1 to NHS DHCW to reflect the latest withdrawals of consent and update of permission status flags. If there are NO changes to the content of a File 1, there is NO requirement to send a File 1, but please email [support@ukllc.ac.uk](mailto:support@ukllc.ac.uk) to confirm this.
 </details>
 
 <details><summary>5. Include all participants’ identifiers, with historical variations where available</summary>  
 
 * Once a participant has been included in a File 1 <strong>they should NEVER be removed</strong> from a successive File 1, i.e. the number of rows in File 1 updates should only ever increase or remain stable.  
+* **If a participant withdraws permission for their identifiers to be shared with UK LLC, these variables can be set to NULL, as long as study_id and all permission flags are present.**
 * Make sure to retain a 'Current Row' with a STUDY_ID for ALL participants ever included in UK LLC. Where a participant’s status has changed, please create a new row marked 'C' (current) and change the 'row_status' on the old record to 'H' (historical). For more details refer to the [**File 1 specifications**](file1_spec.md).  
 * If participants have died between File 1 updates, please continue to allow participants’ data to flow to the UK LLC TRE, unless doing so is in violation of your LPS protocol. Please note that UK LLC does not ask LPS for a status flag, and mortality data comes from linked mortality records where available.
 
@@ -58,7 +59,7 @@ However, if there are NO changes to the content of a File 1, then there is NO re
 
 <details><summary>6. Set the participant permission flags</summary>  
 
-* Ensure that the permission flags reflect the LPS participants’ wishes and current status. If a participant withdraws from your LPS or withdraws their consent to share data with UK LLC, <strong>set their UK LLC status to 0</strong> in the 'Current' row. If a participant objects to NHS linkages, ensure that their <strong>NHS flags are set to 0</strong>.
+* Ensure that the permission flags reflect the LPS participants' wishes and current status. If a participant withdraws from your LPS or withdraws their consent to share data with UK LLC, <strong>set their UK LLC status to 0</strong> in the 'Current' row. If a participant objects to NHS linkages, ensure that their <strong>NHS flags are set to 0</strong>.
 * Set permission flags to '1' for all NHS linkages unless there is a specific participant- or LPS-level reason for not doing this.
 * Permission flags should only be populated for the CURRENT row of information.  
 
@@ -92,26 +93,27 @@ File 1 updates should follow the File 1 naming convention, with each update give
 Do this even when data are absent for some variables. This is critical for the linkage process. The File 1 formatting table is [**here**](../file1s/file1_format_table.md).
 </details>  
 
-<details><summary>10. Use the UK LLC 'File 1 Checker' programme to confirm that the file is formatted correctly.</summary>  
+<details><summary>10. Use the UK LLC <b>'File 1 Checker'</b> programme to confirm that the file is formatted correctly.</summary>  
 
 * The File 1 Checker can be downloaded from Github: <a href="https://github.com/UKLLC/File-Checker" target="_blank" rel="noopener noreferrer">https://github.com/UKLLC/File-Checker</a>  
 * It is a tool for LPS Data Managers to check that the contents of a File 1 are in line with the requirements set out in this guide.  
 * The checker verifies that field names and values are of expected syntax and data type. It makes no judgment on the contents of the files other than their legality under formatting rules.  
 * All File 1s MUST be cleared through the checker before being sent to DHCW.
-
-**For details on how to use the 'File 1 Checker programme', download the File 1 Checker [User Guide](../downloads/DOC-DAT-054_UK%20LLC_File1CheckerUserGuide_V2.4.pdf).**
+* Instructions for using the File 1 Checker are also available on Github.
 </details>  
 
-<details><summary>11. Send the correctly formatted attribute data to NHS DHCW following the process sent out in step 1 above</summary>  
+<details><summary>11. Confirm that you are going to send a File 1 to DHCW by <b>logging it in the MMS</b></summary>  
+
+* The Metadata Management System enables Data Managers to update and maintain LPS metadata: <a href="https://mms.ukllc.ac.uk/" target="_blank" rel="noopener noreferrer">**https://mms.ukllc.ac.uk/**</a>
+* This information about data that have been sent to DHCW enables UK LLC and researchers to understand the sample provided by each LPS and how it relates to the LPS headline denominator.
+* Without this information it would be difficult for analysts to consider potential bias and issues relating to generalisability.
+
+</details>
+
+<details><summary>12. Send the correctly formatted attribute data to NHS DHCW following the process sent out in step 1 above</summary>  
 
 * Make sure to double check the date format to avoid inconsistent formats and follow the  [**File 1 specifications**](file1_spec.md). 
 * **DO NOT SEND THE FILE 1 TO ANY OTHER ORGANISATION.**
-</details>
-
-<details><summary>12. Send the 'File 1 checker' output (<b>File1_doc.json</b>) to the UK LLC Data Team (support@ukllc.ac.uk)</summary>  
-
-* The File 1 documentation enables UK LLC and research users to understand the sample provided by each LPS and how it relates to the LPS headline denominator.
-* This step is important, because without this information it will be difficult for analysts to consider the risk of potential bias and issues relating to generalisability.
 </details>
 
 <details><summary>13. Retain a copy of each File 1 for potential audit purposes</summary>

@@ -1,6 +1,6 @@
 # Attribute Data File (File 2) Checklist
->Last modified: 14 Aug 2026
-<div style="background-color: rgba(0, 178, 169, 0.3); padding: 5px; border-radius: 5px;"><strong>File 2s contain a STUDY_ID and de-identified LPS data.</strong></div>
+>Last modified: 28 Sep 2026
+<div style="background-color: rgba(0, 178, 169, 0.3); padding: 5px; border-radius: 5px;"><strong>File 2s contain a STUDY_ID and de-identified LPS-collected data.</strong></div>
 <br>
 
 You should submit attribute data (a File 2) and accompanying documentation each time new or updated datasets are deposited into the UK LLC TRE.  
@@ -29,7 +29,7 @@ Datasets are created at the LPS’ discretion but should be as meaningful as pos
 | 04 | Structure the data in logical datasets relating to data collection assessments. These should be based on a collection phase (e.g. a visit or questionnaire) and should not need further sub-division. | 
 | 05 | Ensure none of the datasets exceed 1,024 variables. (Files with more than 1,024 variables cannot be processed.) | 
 | 06 | DO NOT include any free text variables. Note: processed or derived outputs from these variables are acceptable. | 
-| 07 | DO NOT include any geographical units (e.g. LSOAs, postcodes, partial postcodes, encrypted geo markers, IMD) or any strong proxies for location e.g. 'assessment centre name' where this contains location information smaller than region. |
+| 07 | DO NOT include any geographical units (e.g. LSOAs, postcodes, partial postcodes, encrypted geo markers, IMD) or any strong proxies for location e.g. 'assessment centre name' where this contains location information smaller than UK region or devolved nation. |
 
 **Specification and transfer of File 2s and documentation**  
 | | |
@@ -38,9 +38,10 @@ Datasets are created at the LPS’ discretion but should be as meaningful as pos
 | 09 | Adhere <strong>exactly</strong> to the File 2 specification detailed on the [next page](file2_spec.md). |
 | 10 | Name the file as detailed in the [File 2 naming conventions](file2_naming.md#attribute-data-files-should-be-named-as) using the agreed [UK LLC study code](../appendix/c_study_codes.md). |
 | 11 | If splitting one attribute file into several parts, ensure all files names contain the same date and that the separate 'batches' are numbered consecutively. |
-| 12 | Send the File 2 to Swansea University via the secure file upload portal. See '[File Transfer to UK LLC](#file-2-transfer-to-uk-llc)' (below) for upload instructions. |
-| 13 | Complete the File 2 Documentation Template as described [here](file2_documentation.md). |
-| 14 | Send the completed File 2 documentation template to both Swansea University (via the secure link) and the UK LLC Data Team (support@ukllc.ac.uk). |  
+| 12 | Log into the MMS to input the File 2 metadata. |
+| 13 | Send the File 2 to Swansea University via the secure file upload portal. See '[File Transfer to UK LLC](#file-2-transfer-to-uk-llc)' (below) for upload instructions. |  
+
+<aside class="admonition danger"><p class="admonition-title">NEVER attempt to upload File 2s to the UK LLC MMS.</p></aside>
 
 ### File 2 Transfer to UK LLC
 UK LLC will ensure an LPS-specific link is sent from Swansea University to each LPS Data Manager, which will provide a **one-way file drop** to Swansea. This service uses **Owncloud**, a Swansea-hosted client-server software, which allows direct upload of files for the Swansea team to process and load into the UK LLC TRE.  

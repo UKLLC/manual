@@ -1,5 +1,5 @@
-# Format of Data Files
->Last modified: 13 Jul 2026
+# Formatting and Uploading Files
+>Last modified: 29 Sep 2026
 <div style="background-color: rgba(0, 178, 169, 0.3); padding: 5px; border-radius: 5px;"><strong>The specifications for the data files to be ingested into the UK LLC TRE.</strong></div>
 <br>
 
@@ -13,7 +13,6 @@ A full explanation of this 'split-file' process and UK LLC data flows is in [**A
 > You can contact the UK LLC Data Team with any data-related queries at: [support@ukllc.ac.uk](mailto:support@ukllc.ac.uk).
 
 
-![](doc_dat_044_ffg_v3.jpg)  
-
+![](../images/File1_File2_dataflows.jpg)
 
 
