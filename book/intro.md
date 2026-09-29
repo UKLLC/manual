@@ -11,15 +11,14 @@ The Partner LPS Manual will ultimately provide all the information and guidance 
 <aside class="admonition tip"><p class="admonition-title">Researchers interested in working with UK LLC should visit <a href="https://guidebook.ukllc.ac.uk/" target="_blank" rel="noopener noreferrer">UK LLC Guidebook</p></aside>
 </a>
 
-<span style="color:red">**Note:**  
-This Manual reflects forthcoming changes in UK LLC's metadata management processes. All Partner LPS data managers will shortly be contacted about these changes which will be implemented during the week of **05.10.2026**. 
+<span style="color:red">**Note:** this Manual reflects forthcoming changes in UK LLC's metadata management processes. All Partner LPS data managers will shortly be contacted about these changes which will be implemented during the week of **05.10.2026**. 
 If you have any queries about UK LLC's processes before that date, please contact [support@ukllc.ac.uk](mailto:support@ukllc.ac.uk).
 <span style="color:black">
 
 **Current contents:**  
 1) [File Formatting Guidance](../book/docs/ffg_guidance/ffg_intro.md): how to upload LPS data to the UK LLC Trusted Research Environment (TRE)  
 
-2) Link to the [Metadata Management System (MMS)](../book/docs/mms/mms_intro.md) (to maintain and update LPS metadata)
+2) [Metadata Management System (MMS)](../book/docs/mms/mms_intro.md) (content under development)
 
 3) [Study Zones](../book/docs/studyzones/sz_intro.md): TRE access for LPS team members to run quality checks on their own linkages 
 
