@@ -1,5 +1,5 @@
 # Identifiable Data File (File 1) Checklist
->Last modified: 29 Sep 2026
+>Last modified: 27 Oct 2026
 <div style="background-color: rgba(0, 178, 169, 0.3); padding: 5px; border-radius: 5px;"><strong>Updated identifiers (File 1s) and accompanying documentation should be submitted each quarter.</strong></div>
 <br>
 
@@ -43,7 +43,8 @@ More information about this is provided in [**Appendix B**](../appendix/b_nhs_ds
 
 <details><summary>4. Produce one file of identifiers (a File 1) per LPS.</summary>  
 
-You should update this periodically (to add new participants, to amend permission flags or to add address information for geocoding). You will be asked **every quarter** to send an updated File 1 to NHS DHCW to reflect the latest withdrawals of consent and update of permission status flags. If there are NO changes to the content of a File 1, there is NO requirement to send a File 1, but please email [support@ukllc.ac.uk](mailto:support@ukllc.ac.uk) to confirm this.
+You should update this periodically (to add new participants, to amend permission flags or to add address information for geocoding). You will be asked **every quarter** to send an updated File 1 to NHS DHCW to reflect the latest withdrawals of consent and update of permission status flags.  
+If there are NO changes to the content of a File 1, there is no requirement to send a File 1, but please log this in the MMS via the 'No File 1 Submission' button.
 </details>
 
 <details><summary>5. Include all participants’ identifiers, with historical variations where available</summary>  

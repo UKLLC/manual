@@ -1,12 +1,13 @@
 # Metadata Management System (MMS)
->Last modified: 29 Sep 2026
+>Last modified: 27 Oct 2026
 <div style="background-color: rgba(0, 178, 169, 0.3); padding: 5px; border-radius: 5px;"><strong>A system to upload and maintain LPS metadata.</strong></div>
 <br>
 
 >**Log into the MMS here: <a href="https://mms.ukllc.ac.uk/" target="_blank" rel="noopener noreferrer"><b>mms.ukllc.ac.uk</b></a>**  
 
 The MMS enables LPS Data Managers to:
-* Confirm [**File 1**](../ffg_guidance/file1s/file1_checklist.md) submissions before sending files to DHCW
+* Confirm [**File 1**](../ffg_guidance/file1s/file1_checklist.md) submissions before sending files to DHCW.  
+ <i>N.B. If you are **not** submitting a File 1 (because there have been no changes to the file) you can log this via the MMS's **'No File 1 Submission'** button</i>
 * View details of previous File 1s
 * Add metadata for new attribute datasets ([**File 2s**](../ffg_guidance/file2s/file2_checklist.md)), or new versions of existing datasets, before sending the data to SeRP
 * Review study and dataset metadata, make corrections, and keep existing information up to date.
